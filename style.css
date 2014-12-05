@@ -80,13 +80,35 @@ ul li a{
   line-height: 2.5em;
 }
 
-ul li a:hover{
-l}
 
 section{
-  position: fixed;
+  position: absolute;
   z-index: 3;
   top: 0;
   overflow: hidden;
   left: 250px;
+}
+
+h1{
+  font-size:2.5em;
+}
+
+.content{
+  background-color: #000;
+}
+
+p{
+  color:#fff;
+  line-height: 2.5em;
+  padding: 20px 220px;
+}
+
+.content h1{
+  color: #fff;
+  padding: 20px;
+  text-align:center;
+}
+
+.content img{
+  position:absolute;
 }
