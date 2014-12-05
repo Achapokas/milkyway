@@ -112,3 +112,9 @@ p{
 .content img{
   position:absolute;
 }
+
+section ul li{
+  text-decoration: none;
+  color:#FFF;
+  padding: 20px 220px;
+}
